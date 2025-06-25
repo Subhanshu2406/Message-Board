@@ -1,4 +1,3 @@
-```markdown
 # 📬 Subhanshu's Message Board
 
 A simple, clean, and responsive message board web app built using **Node.js**, **Express**, and **EJS**.
@@ -22,7 +21,6 @@ Users can:
 
 ## 📁 Project Structure
 
-```
 subhanshu2406-message-board/
 ├── app.js                  # Entry point of the app
 ├── db.js                   # In-memory data storage
