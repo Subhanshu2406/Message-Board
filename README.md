@@ -30,7 +30,6 @@ subhanshu2406-message-board/
 ├── public/                 # Static assets (CSS, images)
 ├── errors/                 # Custom error classes
 └── package.json            # Dependencies
-```
 
 ---
 
@@ -85,4 +84,4 @@ GitHub: [@Subhanshu2406](https://github.com/Subhanshu2406)
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-```
+
